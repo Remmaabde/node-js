@@ -1,0 +1,17 @@
+2025-07-24 20:06:55	780c1b34-6cd7-4517-9312-49a7a5e53543	Log event emitted!
+2025-07-24 20:11:00	d80eeae1-2c94-42df-81c2-3d80b142596e	Log event emitted!
+2025-07-24 23:00:36	d2036692-00cf-4eaf-8e4a-e81950554613	/new-page.html	GET
+2025-07-24 23:00:36	38d9c2e6-e034-4f34-80c1-9cef0ba06edc	/css/style.css	GET
+2025-07-24 23:00:36	cd122fca-3e99-4079-b39e-88cb2184f539	/favicon.ico	GET
+2025-07-24 23:01:36	d07db5c9-e333-41ed-8d5c-7723b7f2b595	/data/data.json	GET
+2025-07-24 23:01:36	29fafd1c-8a62-484f-b49a-dde5a98fbc9d	/favicon.ico	GET
+2025-07-24 23:02:56	7f7a9431-d225-45ef-9958-0f994ff38fde	/new-page.html	GET
+2025-07-24 23:02:56	c97ec4d4-a52e-4308-9abc-ce5da4b1f6a0	/css/style.css	GET
+2025-07-24 23:03:28	fe27a3ec-c887-4df3-b7c3-2ca8b9bd3bb4	/new-page.html	GET
+2025-07-24 23:03:28	6ef0ea80-d053-4c2d-ab6d-c6b7683f5e8a	/css/style.css	GET
+2025-07-24 23:03:52	5187ba67-3311-4999-9f5a-ce8ffe67ebed	/new-page.html	GET
+2025-07-24 23:03:52	74f7b1f8-bc81-4839-b7ed-b7284162569a	/css/style.css	GET
+2025-07-24 23:07:35	c7dac997-b5c2-4b61-b7b6-7ad653911e67	/new-page.html	GET
+2025-07-24 23:07:35	6e8a2bf7-3400-4cb2-be2d-3a8b1a62f65e	/css/style.css	GET
+2025-07-24 23:07:35	f0cda01e-e60d-4808-a450-ea83939c4b5c	/img/img1.jpg	GET
+2025-07-24 23:07:35	7c01b3b6-cc12-41c9-bdba-d5b460f89852	/favicon.ico	GET
