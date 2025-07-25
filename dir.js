@@ -12,4 +12,4 @@ if(fs.existsSync('./new')) {
         if (err) throw err;
         console.log('Directory removed');
     })
-    }
+}
