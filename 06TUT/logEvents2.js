@@ -20,4 +20,4 @@ const logEvents = async (message, logName) => {
     }
 }
 
-module.exports = logEvents;
+module.exports = logEvents2;
